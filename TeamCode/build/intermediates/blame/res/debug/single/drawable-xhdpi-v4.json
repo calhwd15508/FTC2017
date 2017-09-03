@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/howardzhang/Documents/Github/FTC17/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/howardzhang/Documents/Github/FTC17/TeamCode/build/intermediates/exploded-aar/FTC17/FtcRobotController/unspecified/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/howardzhang/Documents/Github/FTC17/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_menu.png",
+        "source": "/Users/howardzhang/Documents/Github/FTC17/TeamCode/build/intermediates/exploded-aar/FTC17/FtcRobotController/unspecified/res/drawable-xhdpi-v4/icon_menu.png"
+    },
+    {
+        "merged": "/Users/howardzhang/Documents/Github/FTC17/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_robotcontroller.png",
+        "source": "/Users/howardzhang/Documents/Github/FTC17/TeamCode/build/intermediates/exploded-aar/FTC17/FtcRobotController/unspecified/res/drawable-xhdpi-v4/icon_robotcontroller.png"
+    }
+]
